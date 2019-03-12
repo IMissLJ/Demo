@@ -1,3 +1,1 @@
-
-iss-1 
-master    iss-2
+master1
